@@ -19,3 +19,6 @@ Colocar em prática o conhecimento adquirido nas aulas sobre Git/GitHub
 | 03 | Inicializar Repositório | git init |
 | 04 | Criar Repositório Remoto | Clique "+" e em "New repository" |
 | 05 | Criar arquivo texto | touch nome-arquivo |
+| 06 | Adicionar/Rastrear | git add . |
+| 07 | Criar Commit após alterações | git commit - m "mensagem" |
+| 08 | Enviar alterações para repositório Remoto | touch nome-arquivo |
