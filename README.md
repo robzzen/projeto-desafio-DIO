@@ -26,5 +26,6 @@ Colocar em prática o conhecimento adquirido nas aulas sobre Git/GitHub
 | 10 | Criar Commit após alterações | git commit - m "Subindo Branch" |
 | 11 | Subir as alterações repositorio local | git push -u origin nome-branch|
 
-> Como último passo criar commit indicando final do projeto
+> Como último passo: Criar commit indicando final do projeto
+> 
 > git commit -m "Projeto Finalizado"
