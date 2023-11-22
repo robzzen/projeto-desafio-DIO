@@ -21,4 +21,6 @@ Colocar em prática o conhecimento adquirido nas aulas sobre Git/GitHub
 | 05 | Criar arquivo texto | touch nome-arquivo |
 | 06 | Adicionar/Rastrear | git add . |
 | 07 | Criar Commit após alterações | git commit - m "mensagem" |
-| 08 | Enviar alterações para repositório Remoto | touch nome-arquivo |
+| 08 | Criar um Branch | git checkout -b nome-branch |
+| 09 | Criar Commit após alterações | git commit - m "Subindo Branch" |
+| 10 |  ||
